@@ -1,4 +1,5 @@
-import schedule from 'node-schedule'
+console.log('nihaoya')
+/*import schedule from 'node-schedule'
 import dayjs from 'dayjs'
 import {
   sendMessageReply,
